@@ -1,5 +1,5 @@
 ## HowToUse-kde-moe
-#如何美化kde，以kde moe主题为例（我所用的系统为kali）
+# 如何美化kde，以kde moe主题为例（我所用的系统为kali）
 
 
 Moe color schemes: https://store.kde.org/p/1284573/
@@ -35,7 +35,7 @@ Moe Dark kvantum: https://www.pling.com/p/137841
 推荐组件 Stupid simple launcherpad（好看又好用的启动器）
 
 
-杂项安装 安装谷歌中文输入法 
+# 杂项安装 安装谷歌中文输入法 
 
 sudo apt-get install fcitx 
 
