@@ -24,7 +24,11 @@ Moe Dark kvantum: https://www.pling.com/p/137841
 
 
 以上的内容均可以在kde的商店内找到并安装，什么主题，什么颜色方案，什么程序样式都是有的。
+
+
 安装Latte dock软件 sudo apt install latte-dock
+
+
 在latte dock中可以找到moe主题的样式。
 
 
