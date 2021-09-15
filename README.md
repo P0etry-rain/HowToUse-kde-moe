@@ -35,7 +35,7 @@ Moe Dark kvantum: https://www.pling.com/p/137841
 推荐组件 Stupid simple launcherpad（好看又好用的启动器）
 
 
-# 杂项安装 安装谷歌中文输入法 
+## 杂项安装 安装谷歌中文输入法 
 
 sudo apt-get install fcitx 
 
